@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I build websites for a living. `PHP/MySQL`, `NodeJS`, `JS`, `CSS`, `HTML5`
+I build websites for a living. `NodeJS`, `Typescript`, `JS`, `CSS`, `HTML5`, `PHP/MySQL`, 
